@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace = "com.v2ray.ang"
+    namespace = "com.zane.ang"
     compileSdk = 37
 
     defaultConfig {
-        applicationId = "com.v2ray.ang"
+        applicationId = "com.zane.ang"
         minSdk = 24
         targetSdk = 37
         versionCode = 754
